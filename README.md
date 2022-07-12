@@ -5,11 +5,11 @@
 ## 팀원 소개
 
 - 그린론
-- 디우
+- [디우](dwoo.md)
 - 병민
-- 베루스
+- [베루스](./verus.md)
 - [짱구](https://github.com/tco0427/moamoa-git-flow/blob/main/jjanggu.md)
-- 태태
+- [태태](https://github.com/nan-noo/moamoa-git-flow/blob/feature/taetae/taetae.md)
 
 ---
 
