@@ -4,7 +4,7 @@
 
 ## 팀원 소개
 
-- 그린론
+- [그린론](https://github.com/jaejae-yoo/moamoa-git-flow/blob/main/greenlawn.md)
 - [디우](dwoo.md)
 - 병민
 - [베루스](./verus.md)
