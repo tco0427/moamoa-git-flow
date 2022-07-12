@@ -8,7 +8,7 @@
 - 디우
 - 병민
 - 베루스
-- 짱구
+- [짱구](https://github.com/tco0427/moamoa-git-flow/blob/main/jjanggu.md)
 - 태태
 
 ---
